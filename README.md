@@ -2,6 +2,7 @@
 
 ### installation
 ```
+npm install -g jsdoc
 npm install --save-dev jsdoc
 ```
 
