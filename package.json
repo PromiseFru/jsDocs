@@ -1,0 +1,23 @@
+{
+  "name": "jsDocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PromiseFru/jsDocs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PromiseFru/jsDocs/issues"
+  },
+  "homepage": "https://github.com/PromiseFru/jsDocs#readme",
+  "devDependencies": {
+    "jsdoc": "~3.6.6"
+  }
+}
